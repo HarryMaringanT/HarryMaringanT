@@ -24,7 +24,6 @@ My goal is to become a data analyst andkeep growing in this digitalization era. 
 <br />
 
 📊 **This Week I Spent My Time On:**
-<img src="https://github.com/HarryMaringanT/HarryMaringanT/blob/main/images/stat.svg" alt="Harry's WakaTime Activity"/>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
