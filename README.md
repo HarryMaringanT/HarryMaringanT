@@ -14,7 +14,7 @@ My goal is to become a data analyst and keep growing in this digitalization era.
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regulary write articles on [medium](https://medium.com/@simamoraharry8/);
 - 📫 How to reach me: harmaringantua@gmail.com;
-- 📝 [Resume](https://drive.google.com/file/d/1CsJD54l7bF-aYgHeiPIJicv5V31G3kLh/view)
+- 📝 [Resume](https://drive.google.com/file/d/1v64SIRXB0JdDqL8VJ5OdsF_tc9v0DkG9/view)
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
