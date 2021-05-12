@@ -26,9 +26,6 @@ My goal is to become a data analyst and keep growing in this digitalization era.
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 📈 My GitHub Stats
