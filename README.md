@@ -24,10 +24,6 @@ My goal is to become a data analyst and keep growing in this digitalization era.
 
 <br />
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HarryMaringanT&show_icons=true&theme=gotham" alt="HarryMaringanT" />
