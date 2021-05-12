@@ -7,7 +7,7 @@
 
 <br />
 
-Hi, I'm Harry Maringan Tua, a passionate self-taught Data Analytics from Indonesia. I have a passion in data analysis and enjoy learning new thingsespecially those related to data. 
+Hi, I'm Harry Maringan Tua, a passionate self-taught Data Analytics from Indonesia. I have a passion in data analysis and enjoy learning new things especially those related to data. 
 
 My goal is to become a data analyst and keep growing in this digitalization era. I have experience working on several projects such as surveys, exploratory data analysis, panel data regression and questionnaire analysis using software such as SPSS, Python and Excel.
   
